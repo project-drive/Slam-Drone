@@ -51,3 +51,4 @@ while(ch=="y"):
         print(matrix[r])
     print("\n")
     ch=input("Do you want to continne(y/n)")
+yrytfyugi
